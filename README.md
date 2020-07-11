@@ -11,3 +11,5 @@ The source codes in mlflow-related parts are based on [mlflow-docker-compose](ht
     2. `poetry shell`
     3. `make predict && make submit EXPERIMENT_NAME=hello-initial-experiment`
 3. then check results on mlflow UI at `localhost:5000`
+
+![mlflow-example](https://i.gyazo.com/6eb4e6377bc0a5104a350eb35f77b651.png)
